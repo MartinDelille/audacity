@@ -4,7 +4,7 @@ ACLOCAL_AMFLAGS = -I m4
 
 bin_PROGRAMS = audacity$(EXEEXT)
 
-dist_doc_DATA = LICENSE.txt README.txt
+dist_doc_DATA = LICENSE.txt README.md
 dist_pkgdata_DATA = presets/EQDefaultCurves.xml
 
 nobase_dist_pkgdata_DATA = \
