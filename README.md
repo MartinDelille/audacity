@@ -37,9 +37,9 @@ Version 2.3.0
 Contents of this README:
 
 1.  Licensing
-1.  Changes since version 2.2.2
-1.  Known Issues at Release
-1.  Source Code, Libraries and Additional Copyright Information
+2.  Changes since version 2.2.2
+3.  Known Issues at Release
+4.  Source Code, Libraries and Additional Copyright Information
 
 --------------------------------------------------------------------------------
 
